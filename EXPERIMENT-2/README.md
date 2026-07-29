@@ -30,4 +30,4 @@ ReLU achieved the best performance among activation functions.
 Adam optimizer converged faster and achieved the highest accuracy.
 
 ## Author
-Roll No: 24BAD031
+Roll No: 24BAD016
